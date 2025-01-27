@@ -90,13 +90,13 @@ ALS Implicit: Best hyperparameters (factors = 19, regularization = 0.077, iterat
 
 **References:**
 
-Chen, D. (2015). Online Retail [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5BW33.
+Chen, D. (2015). Online Retail Dataset. UCI Machine Learning Repository. https://doi.org/10.24432/C5BW33.
 
 Frederickson, B. (2025). Implicit: Fast Python Collaborative Filtering for Implicit Datasets (Version 0.7.2) [Computer software]. GitHub. https://github.com/benfred/implicit
 
-Python Software Foundation. (2025). difflib — Helpers for computing deltas. In Python 3.13.1 documentation. Retrieved from https://docs.python.org/3/library/difflib.html
+Python Software Foundation. (2025). difflib — Helpers for Computing Deltas. In Python 3.13.1 Documentation. Retrieved from https://docs.python.org/3/library/difflib.html
 
-Raschka, S. (2025). fpgrowth: Frequent itemsets via the FP-growth algorithm. In mlxtend user guide. Retrieved from https://rasbt.github.io/mlxtend/user_guide/frequent_patterns/fpgrowth/
+Raschka, S. (2025). Fpgrowth: Frequent Itemsets via the FP-Growth Algorithm. In mlxtend User Guide. Retrieved from https://rasbt.github.io/mlxtend/user_guide/frequent_patterns/fpgrowth/
 
-Raschka, S. (2025). apriori: Frequent itemsets via the Apriori algorithm. In mlxtend user guide. Retrieved from https://rasbt.github.io/mlxtend/user_guide/frequent_patterns/apriori/
+Raschka, S. (2025). Apriori: Frequent Itemsets via the Apriori Algorithm. In Mlxtend User Guide. Retrieved from https://rasbt.github.io/mlxtend/user_guide/frequent_patterns/apriori/
 
