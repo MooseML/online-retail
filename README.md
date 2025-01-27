@@ -86,4 +86,13 @@ ALS Implicit: Best hyperparameters (factors = 19, regularization = 0.077, iterat
 
 ## Acknowledgments
 
-- **Dataset:** This project utilizes the[UC Irvine Machine Learning Repository: Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)  
+- **Dataset:** This project utilizes the[UC Irvine Machine Learning Repository: Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
+**References:**
+Frederickson, B. (2025). Implicit: Fast Python Collaborative Filtering for Implicit Datasets (Version 0.7.2) [Computer software]. GitHub. https://github.com/benfred/implicit
+
+Python Software Foundation. (2025). difflib — Helpers for computing deltas. In Python 3.13.1 documentation. Retrieved from https://docs.python.org/3/library/difflib.html
+
+Raschka, S. (2025). fpgrowth: Frequent itemsets via the FP-growth algorithm. In mlxtend user guide. Retrieved from https://rasbt.github.io/mlxtend/user_guide/frequent_patterns/fpgrowth/
+
+Raschka, S. (2025). apriori: Frequent itemsets via the Apriori algorithm. In mlxtend user guide. Retrieved from https://rasbt.github.io/mlxtend/user_guide/frequent_patterns/apriori/
+
