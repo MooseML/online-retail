@@ -89,6 +89,7 @@ ALS Implicit: Best hyperparameters (factors = 19, regularization = 0.077, iterat
 **Dataset Link:** This project utilizes the [UC Irvine Machine Learning Repository: Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
 
 **References:**
+
 Chen, D. (2015). Online Retail [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5BW33.
 
 Frederickson, B. (2025). Implicit: Fast Python Collaborative Filtering for Implicit Datasets (Version 0.7.2) [Computer software]. GitHub. https://github.com/benfred/implicit
