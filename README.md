@@ -64,7 +64,7 @@ Moderate Holiday Shoppers: 45 itemsets; e.g., "ALARM CLOCK BAKELIKE GREEN" → "
 Rule-Based: Transparent recommendations like "HAND WARMER UNION JACK" for "HAND WARMER RED RETROSPOT."
 ALS Implicit: Best hyperparameters (factors = 19, regularization = 0.077, iterations = 13). Recommendations tailored by cluster, e.g., "ALARM CLOCK BAKELIKE IVORY" with high relevance scores for Cluster 0 shoppers.
 
-## Installation
+## Installation with Python 3.11.11
 1. Clone the repository:
    ```bash
    git clone https://github.com/MooseML/online-retail.git
