@@ -71,7 +71,7 @@ ALS Implicit: Best hyperparameters (factors = 19, regularization = 0.077, iterat
 
 2. Navigate to the project directory:
    ```bash
-   cd online_retail
+   cd online-retail
 
 3. Install dependencies:
    ```bash
